@@ -1,2 +1,0 @@
-# scraper
-scraps the nytimes 
